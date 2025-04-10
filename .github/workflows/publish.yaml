@@ -1,4 +1,6 @@
 name: publish NEGUA.org to Github Pages
+permissions:
+  contents: write
 run-name:
 on: [push]
 jobs:
